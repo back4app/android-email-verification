@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">User Registration With Email Verification</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <color name="Black">#000000</color>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">PASTE_YOUR_APP_ID</string>
+    <string name="back4app_client_key">PASTE_YOUR_CLIENT_KEY</string>
+</resources>
