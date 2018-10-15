@@ -26,7 +26,6 @@ public class SignUpActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Parse.initialize(this);
         setContentView(R.layout.activity_sign_up);
 
         final Button back_button = findViewById(R.id.back_button);
